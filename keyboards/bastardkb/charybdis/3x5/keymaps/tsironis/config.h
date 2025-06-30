@@ -27,8 +27,8 @@
 #endif // __arm__
 
 /* Charybdis-specific features. */
-#define CHARYBDIS_MINIMUM_DEFAULT_DPI 1600
-#define CHARYBDIS_MINIMUM_SNIPING_DPI 600
+#define CHARYBDIS_MINIMUM_DEFAULT_DPI 1500
+#define CHARYBDIS_MINIMUM_SNIPING_DPI 800
 
 #ifndef TAPPING_TERM
 #    define TAPPING_TERM 175
